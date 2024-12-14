@@ -20,4 +20,4 @@ function addEntry() {
   const targetInputContainer = document.querySelector(`#${entryDropdown.value} .input-container`);
   const entryNumber = targetInputContainer.querySelectorAll();
 }
-console.log(addEntry());
+console.log(addEntry()); //19 sep 24
